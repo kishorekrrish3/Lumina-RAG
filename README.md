@@ -310,17 +310,6 @@ Your vector DB is empty or the query is outside the scope of indexed papers. Run
 
 ---
 
-## 🔮 Future Roadmap
-
-- [ ] **Streaming responses** — Stream Gemini output token-by-token for a ChatGPT-like feel
-- [ ] **Multi-modal input** — Allow drag-and-drop PDF uploads directly in the UI
-- [ ] **Citation graph** — Visualize paper relationships with the ResearchGraph component
-- [ ] **Cloud vector DB** — Migrate from FAISS to Pinecone/Qdrant for horizontal scaling
-- [ ] **Feedback-driven retraining** — Use logged feedback to fine-tune the retrieval threshold
-- [ ] **Docker Compose** — Package backend + frontend into a single `docker-compose up` setup
-
----
-
 <div align="center">
   <br>
   <i>Built to bridge the gap between static knowledge and dynamic discovery.</i>
