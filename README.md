@@ -3,7 +3,7 @@
 # 🌌 Lumina
 ### Autonomous Knowledge Acquisition for Self-Improving Retrieval-Augmented Generation
 
-**A production-grade Retrieval-Augmented Generation (RAG) system that learns dynamically.**  
+**An experimental Retrieval-Augmented Generation (RAG) system that can expand its knowledge base through configured acquisition workflows.**  
 *Ask anything. If the answer isn't in the local knowledge base, Lumina finds it automatically.*
 
 <br>
@@ -19,6 +19,9 @@
 </div>
 
 ---
+
+> **Project status:** Prototype RAG system. Retrieved passages and generated answers can be incomplete, stale, or incorrect; verify important claims against the linked source documents before relying on them.
+
 
 ## 📖 What is Lumina?
 
